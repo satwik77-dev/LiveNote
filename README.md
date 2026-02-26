@@ -220,7 +220,6 @@ This repo is currently focused on:
 ## Author
 
 Sai Satwik Yarapotini
+Email : saisatwi.yarapot@ufl.edu
 M.S. in Applied Data Science — Herbert Wertheim College of Engineering
 
-```
-```
