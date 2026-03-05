@@ -96,8 +96,11 @@ Provides an overview of the project, repository structure, and instructions for 
 # 🚧 Project Status (Current Progress)
 
 ✅ **Datasets ingested and validated** (AMI + ICSI)
+
 ✅ **EDA completed for feasibility “stress test”** across text + audio datasets
+
 ✅ **Baseline vs advanced summarization benchmark** established using ROUGE
+
 🔄 **Current Implementation phase**: Audio → Structured speech units → Incremental intelligence
 
 ---
